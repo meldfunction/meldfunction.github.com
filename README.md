@@ -3,3 +3,7 @@
 #Our goals are: unity in diversity, empowering communities and driving change
 
 #Challenges: Finding individuals, organizations and communities that are willing to join with us to colloborate on change near and far
+
+#Upcoming Events: May TBD
+
+#Email: brandon@ideahound.org
