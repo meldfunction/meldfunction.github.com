@@ -29,7 +29,7 @@ Worker cooperatives are businesses owned and controlled by the people who work i
 * This Changes Everything (https://youtu.be/YQhflH4alO0)
 * Populations Speak out (https://goo.gl/2iT8Lk)
 
-#Legal Resources:
+#Legal Resources
 * http://communityenterpriselaw.org/
 * http://www.co-oplaw.org/
 
@@ -37,8 +37,6 @@ Worker cooperatives are businesses owned and controlled by the people who work i
 * Democarcy Collaborative - http://democracycollaborative.org/
 * Community Wealth - http://community-wealth.org/
 * ONEDC - http://www.onedconline.org/
-* Bus Boys and Poets
-![alt tag](tribal_statement.jpg)
 * Platform Cooperativism http://platformcoop.net/
 * Palante Tech - http://palantetech.coop/
 * Gratipay - https://gratipay.com/
@@ -51,6 +49,8 @@ Worker cooperatives are businesses owned and controlled by the people who work i
 * Igalia - http://www.igalia.com
 * Much Different - http://www.muchdifferent.com/
 * Radical Designs - http://radicaldesigns.org
+* Bus Boys and Poets
+![alt tag](tribal_statement.jpg)
 
 #Current Challenges: 
 Finding individuals, organizations and communities that are willing to join and colloborate for sustainable change so drop us a line in you feel so inclined
