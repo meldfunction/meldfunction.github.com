@@ -1,26 +1,37 @@
-#Meld Function is a DC based local tech coopeartive focused on social change through a variety of lenses a strong drive for diversity
+#Meld Function
+We are a DC based local tech coopeartive focused on social change through a variety of lenses a strong drive for diversity
 
-#Goals: unity in diversity, empowering communities and driving change
+#Contact:
+brandon@ideahound.org
+ www.meetup.com/MeldFunction/
 
-#Learn More about Coops
+#Goals: 
+unity in diversity
+empowering communities
+driving sustainable change
+
+#Why Coops
 Model View Culture - https://modelviewculture.com/pieces/can-coops-revolutionize-the-tech-industry
 
 #Inspring Organizations
-#Bus Boys and Poets
+
+ONEDC - http://www.onedconline.org/
+Bus Boys and Poets
 ![alt tag](tribal_statement.jpg)
-#Gratipay - https://gratipay.com/
-#Loomio - https://www.loomio.org/marketing
-#SELC - http://www.theselc.org/
-#May First - https://mayfirst.org/en/index.html
-#Tent - https://tent.io/about
-#CoLab - https://colab.coop/
-#Agile Coop - http://agile.coop/
-#Igalia - http://www.igalia.com
-#Much Different - http://www.muchdifferent.com/
-#Radical Designs - http://radicaldesigns.org
 
-#Challenges: Finding individuals, organizations and communities that are willing to join with us to colloborate on change near and far
+Gratipay - https://gratipay.com/
+Loomio - https://www.loomio.org/marketing
+SELC - http://www.theselc.org/
+May First - https://mayfirst.org/en/index.html
+Tent - https://tent.io/about
+CoLab - https://colab.coop/
+Agile Coop - http://agile.coop/
+Igalia - http://www.igalia.com
+Much Different - http://www.muchdifferent.com/
+Radical Designs - http://radicaldesigns.org
 
-#Upcoming Events: May TBD
+#Challenges: 
+Finding individuals, organizations and communities that are willing to join with us to colloborate on change near and far so drop us a line in you are so inclined
 
-#Email: brandon@ideahound.org
+#Upcoming Events: May/TBD/2016
+
