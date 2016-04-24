@@ -1,8 +1,8 @@
 #Meld Function
 We are a DC based local tech coopeartive focused on social change through a variety of lenses a strong drive for diversity
 #Contact Us
-*brandon@ideahound.org
-*www.meetup.com/MeldFunction/
+* brandon@ideahound.org
+* www.meetup.com/MeldFunction/
 
 #Goals: 
 unity in diversity
