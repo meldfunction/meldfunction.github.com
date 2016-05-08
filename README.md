@@ -1,5 +1,5 @@
 #Meld Function
-We are a DC based local tech coopeartive focused on social change through a variety of lenses a strong drive for diversity
+We are a DC based local tech coop focused on social change through a variety of lenses a strong drive for diversity
 #Contact Us
 * brandon@ideahound.org
 
@@ -9,7 +9,7 @@ We are a DC based local tech coopeartive focused on social change through a vari
 #What are Cooperatives?
 http://www.co-oplaw.org/co-op-basics/what-are-cooperatives/
 TL;DR?
-" A cooperative is a business owned and controlled by the people who use its services. Unlike a typical business, which returns profits to the owners based on how much the owners have invested in the business, a cooperative rewards its owners based on how much they use the cooperative. And unlike a business where owners have different amounts of power based on how much money they have invested, a cooperative is governed on a democratic basis, with one vote per person regardless of investment.
+" A co-op is a business owned and controlled by the people who use its services. Unlike a typical business, which returns profits to the owners based on how much the owners have invested in the business, a cooperative rewards its owners based on how much they use the cooperative. And unlike a business where owners have different amounts of power based on how much money they have invested, a cooperative is governed on a democratic basis, with one vote per person regardless of investment.
 
 Worker cooperatives are businesses owned and controlled by the people who work in them. The worker-members own the business and return its profits to themselves based on how much they work for the co-op. They control the co-op, perhaps by electing a Board of Directors to make policy and hire managers to organize their work, or (as is more common in smaller worker co-ops like ours) by governing and/or managing the co-op all together, as a collective." (http://techworker.coop/about)
 
