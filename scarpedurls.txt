@@ -1,0 +1,183 @@
+Pulled from fellow coop Gratipay
+Affiliates
+Inventing a New Organizational Operating System
+https://www.youtube.com/watch?v=4ABqCgKi4X0
+
+https://www.flickr.com/photos/treborscholz/sets/72157661354244001
+
+http://www.shareable.net/blog/platform-cooperativism-conference-disrupts-silicon-valleys-disruptions
+
+https://github.com/gratipay/inside.gratipay.com/issues/594
+
+https://medium.com/enspiral-tales/no-boss-does-not-mean-no-leadership-c4c97c660252#.n2n3ycuug
+
+https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c#.4xq3tqfp1
+
+http://p2pfoundation.net/Open_Cooperatives#The_Enspiral_Network
+
+Resources
+
+https://www.loomio.org/g/WmPCB3IR/loomio-community
+
+http://producingoss.com/en/social-infrastructure.html
+https://github.com/gratipay/inside.gratipay.com/labels/Hard%20Things
+https://github.com/gratipay/inside.gratipay.com/labels/Governance%20%26%20Process
+https://github.com/gratipay/inside.gratipay.com/issues/528
+
+https://github.com/gratipay/inside.gratipay.com/issues/409
+
+https://github.com/gratipay/inside.gratipay.com/issues/404
+
+https://github.com/gratipay/inside.gratipay.com/issues/420
+
+https://github.com/gratipay/inside.gratipay.com/issues/421
+
+Agreement based organizations
+https://docs.google.com/document/d/1c_xWEIay-2jyJ3Rqb6OgTxoZBJfjNW4d6w6ukXyeJk4/edit?usp=sharing
+
+http://sociocracy30.org/the-details/
+
+
+https://www.python.org/dev/peps/pep-0001/
+
+https://www.loomio.org/d/CeMFoapG/ux-engaging-people-with-notification-emails-without-overwhelming-them-with-noise
+
+https://austerityprotests.wordpress.com/2015/05/03/email-etiquette-for-virtual-collectives/
+
+https://github.com/gratipay/inside.gratipay.com/issues/72#issuecomment-159733572
+
+https://www.loomio.org/g/NFuLByXn/gratipay
+
+https://github.com/gratipay/inside.gratipay.com/issues/421
+
+http://www.jofreeman.com/joreen/tyranny.htm
+
+http://cdi.coop/2014/10/29/coop-cathy-worker-coops-esops-difference/
+
+http://cultivate.coop/wiki/Differences_Between_Worker_Cooperatives_and_Collectives
+
+Call with Jannelle
+https://www.youtube.com/watch?v=vnS4Hf9Ro3Q
+
+http://inside.gratipay.com/howto/sweep-the-radar
+
+http://cdi.coop/
+
+http://www.kdc.coop/
+
+http://aorta.coop/
+
+http://www.co-oplaw.org/topics-2/cooperative-bylaws/
+
+http://www.scottbader.com/about-us/45/our-governance-structure
+
+https://github.com/gratipay/inside.gratipay.com/issues/420#issuecomment-195854347
+
+
+https://github.com/gratipay/inside.gratipay.com/issues/384#issuecomment-157146396
+Another reason I didn't end up introducing myself to more lawyers is that I came to see, over the course of the conference, that #242 is but one of six major areas of work in front of us. I found myself wanting to zoom out and look at the big picture before pushing further on any one.
+
+legal foundation for payments addressed in Gratipay 2.0
+community management addressed in Gratipay 2.0
+accounting (#367)
+governance (#72)
+legal foundation for payroll (#242; entangled with governance)
+tech debt (e.g., gratipay/gratipay.com#3617, AspenWeb/pando.py#526)
+product development
+marketing
+
+
+We're Turning Venture Capital on Its Head
+
+http://firstround.com/
+
+
+Bottom Up Economy 
+http://www.homebrew.co/
+
+What if Facebook were a nonprofit?
+
+http://www.disruption.vc/blog/what-if-facebook-were-a-nonprofit
+
+http://www.knightfoundation.org/about/communities/
+
+https://www.omidyar.com/
+
+http://pittsburghchamber.coop/
+
+http://externalrevenue.us/
+
+http://www.collaborativefund.com/
+
+https://www.loomio.org/marketing
+
+http://www.collaborativefund.com/about/alignment-holdings/
+
+http://casefoundation.org/
+
+http://www.kaporcapital.com/
+
+
+
+JanelleOrsi commented on Dec 2, 2015
+Since I'm not caught up with this thread yet (apart from how to make a lottery ball), quick question: are you a Pennsylvania LLC?
+
+If so, you'll either need a PA lawyer, or someone to team up with a PA lawyer to make sure everything is compliant with the PA LLC statute (I'm guessing PA law says that out-of-state lawyers can't practice there unless they are working with a PA lawyer on a client matter).
+
+Possibilities in or outside of PA:
+
+Praveen Kosuri runs a law clinic at Penn.
+For some reason, I thought that either Parag Khandhar or Dorcas Gilmore from this firm is certified in PA, but maybe it's just in Maryland. In any case, they could be good.
+Jason Wiener - coop lawyer certified in Colorado and NY - he represents Members Media, which was present at the Platform Coop conference
+Renee Lloyd, who you will recognize from the Platform Coop conference
+Any of the 18 lawyers who are Fellows at the Sustainable Economies Law Center, since they also have an open door to ask SELC staff attorneys for mentorship on things like this
+I'm happy to chip in an hour of brainstorming if you'd like, since you'd already paid my fee in the form of a penny with a heart in it.
+https://github.com/SustainableEconomiesLawCenter/Research
+
+http://www.scottbader.com/about-us/11/our-history
+
+http://member.datacommons.coop/bylaws
+
+How about this for an outline:
+
+A minimalist six-member board formally owns Gratipay. The members of the board are trustees of Gratipay on behalf of the Gratipay community. The board's responsibilities include:
+
+Ensuring the continuity of Gratipay as a legal entity.
+Ensuring the continued forkability of Gratipay.
+Overseeing the selection of the CEO.
+One-third of the board is replaced every other year, as follows:
+
+The ~users of Gratipay nominate one replacement from among themselves by election.
+The four continuing board members nominate one replacement.
+Gratipay has a CEO that acts as benevolent dictator—but not for life. The CEO rotates every two years (out of phase with board selections), and is therefore a "benevolent dictator for now" (BDFN).
+
+The CEO is selected at random from among three candidates:
+
+The board nominates one candidate.
+The current CEO may run again, or may nominate one candidate.
+The ~users of Gratipay nominate one candidate from among themselves by election, or two if the CEO was fired or resigned or didn't nominate a candidate.
+The board grants the CEO broad control to run the company. Accountability comes from the Gratipay community as a whole (which, of course, includes the board) via our public collaboration channels. Forking is the answer for irreconcilable disagreements.
+
+https://github.com/gratipay/inside.gratipay.com/issues/72
+
+https://github.com/gratipay/inside.gratipay.com/issues/457
+
+https://gratipay.news/a-platform-cooperative-almost-94cd5900840f
+
+http://communityenterpriselaw.org/employment/
+
+http://www.co-oplaw.org/topics-2/employment-law/
+
+https://www.youtube.com/watch?v=kJc60wCbL70&list=PL5Qc8ueoLShsagZIDjThmjSabFm7pXQxq&index=10
+https://www.youtube.com/watch?v=kJc60wCbL70
+https://www.youtube.com/watch?v=kJc60wCbL70#t=18m08s
+https://www.youtube.com/watch?v=kJc60wCbL70#t=24m42s
+https://www.youtube.com/watch?v=kJc60wCbL70#t=26m05s
+https://www.youtube.com/watch?v=tEVc1QSKBGw&feature=youtu.be
+https://gratipay.com/about/features/payroll
+
+https://www.youtube.com/watch?v=tEVc1QSKBGw#t=12m28s
+
+http://blog.loomio.org/category/cultural-technology/
+
+http://www.co-oplaw.org/topics-2/cooperative-bylaws/
