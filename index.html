@@ -17,6 +17,7 @@
     <!-- Custom CSS -->
     <link href="css/grayscale.css" rel="stylesheet">
     <script src="https://use.fontawesome.com/51baa7a495.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
     <link rel="stylesheet" href="css/font-awesome-animation.css">
 
 
@@ -41,6 +42,26 @@
   ga('send', 'pageview');
 
 </script> 
+
+<script type="text/javascript">
+(function(){
+  var ul=$("#navs"),li=$("#navs li"),i=li.length,n=i-1,r=120;
+  ul.click(function(){
+    $(this).toggleClass('active');
+    if($(this).hasClass('active')){
+      for(var a=0;a<i;a++){
+        li.eq(a).css({
+          'transition-delay':""+(50*a)+"ms",
+          '-webkit-transition-delay':""+(50*a)+"ms",
+          'left':(r*Math.cos(90/n*a*(Math.PI/180))),
+          'top':(-r*Math.sin(90/n*a*(Math.PI/180)))  
+        });
+      }
+    }else{
+      li.removeAttr('style');
+    }
+  });
+})($);</script>
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
@@ -128,8 +149,8 @@
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>Communidad</h2>
-                    <p>You can learn more about the community</p>
-                    <a href="community.html" class="btn btn-default btn-lg">here.</a>
+                    <p><ul><li>Work on cool projects</li><li>Learn new skills</li><li>Donate your time</li><li>Exchange Services</li><li>Meet your community</li><li>Apprenticeships</li></ul></p>
+                    <a href="community.html" class="btn btn-default btn-lg">Collaborate.</a>
                 </div>
             </div>
         </div>
@@ -153,7 +174,15 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>Servicios</h2>
                     <p>We offer digital and technology services</p>
-                    <a href="#email" class="btn btn-default btn-lg">here.</a>
+
+                    <ul id="navs" data-open="close" data-close="open">
+                      <li><a href="#">MGMT</a></li>
+                      <li><a href="#">Development</a></li>
+                      <li><a href="#">R/D</a></li>
+                      <li><a href="#">Strategy</a></li>
+                      <li><a href="#">Design</a></li>
+                    </ul>
+                    <a href="#email" class="btn btn-default btn-lg">Explore</a>
                 </div>
             </div>
         </div>
