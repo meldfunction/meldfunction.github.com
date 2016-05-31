@@ -4,6 +4,17 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+$('#btn').hover(function(e) {    
+    $('#explore').fadeOut('slow', function(){
+        $('#communidad').fadeIn('slow');
+        
+    });
+});
+$('#btn3').hover(function(e) {    
+    $('#btn3').fadeOut('slow', function(){
+        $('#servicios').fadeIn('slow');
+    });
+});
 // jQuery to collapse the navbar on scroll
 function collapseNavbar() {
     if ($(".navbar").offset().top > 50) {
@@ -33,5 +44,3 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
   }
 });
-
-
