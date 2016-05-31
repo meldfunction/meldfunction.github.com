@@ -45,7 +45,7 @@ p {
 }
 
 .navbar-nav a:hover{
-    text-decoration: underline !important;
+    color: #42dca3 !important
 }
 
 a {
@@ -126,6 +126,9 @@ a:focus {
     color: #fff;
 }
 
+.meld {
+    color: #42dca3 !important; 
+    }
 @media(min-width:768px) {
     .navbar-custom {
         padding: 20px 0;
