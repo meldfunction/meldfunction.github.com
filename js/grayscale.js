@@ -3,16 +3,30 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+$('#btn, #btn2, #btn3, #btn4').click(function () {
+ return false;
+});
 
 $('#btn').hover(function(e) {    
     $('#explore').fadeOut('slow', function(){
         $('#communidad').fadeIn('slow');
+
+    });
+});
+$('#btn2').hover(function(e) {    
+    $('#crucible').fadeOut('slow', function(){
+        $('#crisol').fadeIn('slow');
         
     });
 });
 $('#btn3').hover(function(e) {    
     $('#btn3').fadeOut('slow', function(){
         $('#servicios').fadeIn('slow');
+    });
+});
+$('#btn4').hover(function(e) {    
+    $('#btn4').fadeOut('slow', function(){
+        $('#apprender').fadeIn('slow');
     });
 });
 // jQuery to collapse the navbar on scroll
