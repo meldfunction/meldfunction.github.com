@@ -158,12 +158,6 @@ a:focus {
   font-weight: 400 !important;
 }
 
-.meld ul, .meld li {
-  margin: 0;
-  padding: 0;
-  text-align: center;
-
-}
 
 @media(min-width:768px) {
   .navbar-custom {
@@ -554,12 +548,9 @@ a:hover,a:focus {
   list-style-type: none !important;
 }
 
-#parens {
-}
 
-.meld ul, .meld li {
-  margin: 0;
-  padding: 0;
+ul.meld {
+padding: 0 !important;
 }
 
 .intro {
