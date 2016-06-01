@@ -153,13 +153,16 @@ a:focus {
   list-style-type: none !important;
 }
 
-.meld span {
-  text-transform: uppercase;
+.meld > span {
+  text-transform: uppercase !important;
+  font-weight: 400 !important;
 }
 
 .meld ul, .meld li {
   margin: 0;
   padding: 0;
+  text-align: center;
+
 }
 
 @media(min-width:768px) {
@@ -547,15 +550,14 @@ a:hover,a:focus {
 }
 
 .meld {
-  color: #42dca3!important;
-  list-style-type: none!important;
+  color: #42dca3 !important;
+  list-style-type: none !important;
 }
 
-.meld span {
-  text-transform: uppercase;
+#parens {
 }
 
-.meld ul,.meld li {
+.meld ul, .meld li {
   margin: 0;
   padding: 0;
 }
