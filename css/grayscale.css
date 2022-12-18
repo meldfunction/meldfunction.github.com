@@ -4,89 +4,12 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-/* Set the default font size and family */
-html {
-	font-size: 16px;
-}
-
-
-/* Set the font size and style for paragraphs */
-p {
-	font-size: 16px;
-	font-style: normal;
-}
-
-/* Set the font size and style for lists */
-ul, ol {
-	font-size: 16px;
-	font-style: normal;
-}
-
-/* Set the font size and style for links */
-a {
-	font-size: 16px;
-  font-style: normal;
-color: #0000EE;
-}
-
-/* Set the font size and style for blockquotes */
-blockquote {
-font-size: 16px;
-font-style: italic;
-margin: 16px 0;
-padding: 0 16px;
-border-left: 4px solid #DDDDDD;
-}
-
-/* Set the font size and style for code blocks */
-pre {
-font-size: 12px;
-font-family: monospace;
-margin: 16px 0;
-padding: 16px;
-background-color: #F5F5F5;
-border: 1px solid #DDDDDD;
-border-radius: 4px;
-}
-
-/* Set the font size and style for table elements */
-table {
-font-size: 14px;
-border-collapse: collapse;
-border-spacing: 0;
-}
-th, td {
-border: 1px solid #DDDDDD;
-padding: 8px;
-}
-
-/* Set the font size and style for form elements */
-form {
-font-size: 14px;
-}
-input, select, textarea {
-font-size: 14px;
-border: 1px solid #DDDDDD;
-border-radius: 4px;
-padding: 8px;
-}
-
-/* Set the font size and style for the footer */
-footer {
-font-size: 12px;
-padding: 16px;
-text-align: center;
-background-color: #F5F5F5;
-}
-
-
 body {
-  width: 80%;
+  width: 100%;
   height: 100%;
   font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
   color: #fff;
   background-color: #000;
-
 }
 
 html {
@@ -94,73 +17,17 @@ html {
   height: 100%;
 }
 
-h1 {
-  margin: 0 0 35px;
-  padding: 5;	
-font-size: 24px;
-	font-weight: 700;
-  text-transform: uppercase;
-  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  letter-spacing: 1px;
-	color:#fff;
-
-
-
-}
-h2 {
-	  margin: 0 0 35px;
-  padding: 5;
-font-size: 20px;
-	font-weight: 600;
-text-transform: uppercase;
-  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  letter-spacing: 1px;
-
-
-}
-h3 {
-  margin: 0 0 35px;
-  padding: 5;	
-font-size: 18px;
-	font-weight: 500;
-text-transform: uppercase;
-  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  letter-spacing: 1px;
-
-
-}
-h4 {
-  margin: 0 0 35px;
-  padding: 5;	
-font-size: 16px;
-	font-weight: 400;
-text-transform: uppercase;
-  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  letter-spacing: 1px;
-
-
-}
-h5 {
-  margin: 0 0 35px;
-  padding: 5;	
-font-size: 14px;
-	font-weight: 300;
-text-transform: uppercase;
-  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  letter-spacing: 1px;
-
-
-}
+h1,
+h2,
+h3,
+h4,
+h5,
 h6 {
   margin: 0 0 35px;
-  padding: 5;	
-font-size: 12px;
-	font-weight: 200;
-text-transform: uppercase;
+  text-transform: uppercase;
   font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 700;
   letter-spacing: 1px;
-
-
 }
 
 p {
@@ -186,8 +53,6 @@ a {
   -webkit-transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;
   transition: all .2s ease-in-out;
-  text-decoration: underline;
-
 }
 
 a:hover,
@@ -252,14 +117,13 @@ a:focus {
 .navbar-custom .nav li.active {
   outline: 0;
 }
-#btn{
+/*#btn{
        pointer-events: none;
 }
 
 #btn3{
        pointer-events: none;
-}
-
+}*/
 #communidad {
   display: none;
 }
