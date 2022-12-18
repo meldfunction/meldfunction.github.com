@@ -10,7 +10,6 @@ body {
   font-family: Lora,Helvetica,Arial,sans-serif,nyt-cheltenham,georgia,'times new roman',times;
   color: #fff;
   background-color: #000;
-  margin: 5% 20% 5% 20%;
 }
 
 html {
@@ -32,7 +31,7 @@ h6 {
 }
 
 p,li {
-/*  margin: 0 0 25px;*/
+  margin: 5% 20% 5% 20%;
   padding-top: 5px;
   font-size: 18px;
 /*line-height: 1.5;*/
