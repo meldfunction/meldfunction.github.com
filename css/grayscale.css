@@ -10,6 +10,7 @@ body {
   font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
   color: #fff;
   background-color: #000;
+  margin: 25px 296px 296px 40px;
 }
 
 html {
@@ -463,6 +464,7 @@ body {
   color: #fff;
   background-color: #000;
   webkit-tap-highlight-color: rgba(255,255,255,.2);
+  padding: 10px 250px 10px 250px;
 }
 
 html {
