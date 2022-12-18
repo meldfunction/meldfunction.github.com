@@ -1,45 +1,117 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A community lab">
+    <meta name="author" content="Meld()">
+
 	<title>Creating Better Futures of Work</title>
-	<style type="text/css">
-		body {
-			font-family: Arial, sans-serif;
-			background-image: linear-gradient(to bottom, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("https://www.nytimes.com/2019/06/18/world/asia/hong-kong-protests-police.html");
-			background-size: cover;
-			color: white;
-			padding: 30px;
-		}
-		h1 {
-			font-size: 36px;
-			margin-bottom: 20px;
-		}
-		h2 {
-			font-size: 24px;
-			font-weight: bold;
-			margin-bottom: 10px;
-		}
-		p {
-			font-size: 18px;
-			line-height: 1.5;
-			margin-bottom: 20px;
-		}
-		ul {
-			list-style: none;
-			padding: 0;
-			margin-bottom: 20px;
-		}
-		li {
-			font-size: 18px;
-			line-height: 1.5;
-			margin-bottom: 10px;
-		}
-		a {
-			color: white;
-			text-decoration: none;
-		}
-	</style>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/grayscale.css" rel="stylesheet">
+    <script src="https://use.fontawesome.com/51baa7a495.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/font-awesome-animation.css">
+
+
+    <!-- Custom Fonts -->
+    <!--<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">-->
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-78526924-1', 'auto');
+  ga('send', 'pageview');
+
+</script> 
+
+<script type="text/javascript">
+(function(){
+  var ul=$("#navs"),li=$("#navs li"),i=li.length,n=i-1,r=120;
+  ul.click(function(){
+    $(this).toggleClass('active');
+    if($(this).hasClass('active')){
+      for(var a=0;a<i;a++){
+        li.eq(a).css({
+          'transition-delay':""+(50*a)+"ms",
+          '-webkit-transition-delay':""+(50*a)+"ms",
+          'left':(r*Math.cos(90/n*a*(Math.PI/180))),
+          'top':(-r*Math.sin(90/n*a*(Math.PI/180)))  
+        });
+      }
+    }else{
+      li.removeAttr('style');
+    }
+  });
+})($);</script>
 </head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                      <span class="light meld">Meld</span> Function <span class="meld">(</span><i class="fa fa-flask faa-tada animated"></i><span class="meld">)</span>
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="future-of-work-bs.html">Future Of Work</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#community">Community</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#incubator">Incubator</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">Services</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#courses">Classroom</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
 <body>
 	<h1>Creating Better Futures of Work: Understanding the Relationships Between Work, the Worker, and the Workplace</h1>
 	<p>What do we seek out of a thing called work? In the world of work, how we view and relate to work is the primary challenge of our times. Our relationship to work mirrors our relationship to how we live and how we conduct our societies and seek out change within them. Work itself cannot exist separately from societal concepts and rather is interrelated to health, community, government, science and research, war, politics, etc. It is through these larger seen and unseen relationships that we enter the present of work but have you wondered what work actually is and what do people mean when they say about the future of work? And what is it about work that isn’t working?</p>
@@ -84,7 +156,10 @@
 <p>Farnham, A. (2017). The Myth of the Maker Movement. John Wiley & Sons.</p>
 <h2>Conclusion</h2>
 <p>In conclusion, understanding the relationships between work, the worker, and the workplace is crucial for creating better futures of work. By examining our own experiences and identities, and considering the broader societal and economic forces at play, we can work towards creating more meaningful and fulfilling work experiences for ourselves and others. By staying informed and engaged with the latest research and developments, and advocating for more equitable and inclusive workplaces, we can help shape a better future of work for all.</p>
-</body>
+<footer>
+	<p>Copyright 2022, Present Of Work Times</p>
+</footer>
+	</body>
 </html>
 
 
